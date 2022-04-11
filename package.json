@@ -55,6 +55,7 @@
     "solc": "0.8.6",
     "source-map-support": "^0.5.3",
     "spawn-args": "^0.1.0",
+    "sunweb": "^1.1.0",
     "superagent": "^5.1.0",
     "temp": "^0.8.3",
     "tronweb": "^4.0.1",
